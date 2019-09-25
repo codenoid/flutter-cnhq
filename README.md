@@ -1,6 +1,13 @@
 # chuck
 
-Flutter version of [Chuck Norris Holy Quotes](https://github.com/codenoid/chuck-norris-holy-quotes)
+Flutter version of [Chuck Norris Holy Quotes](https://github.com/codenoid/chuck-norris-holy-quotes), Powered by [https://api.chucknorris.io/](https://api.chucknorris.io/)
+
+## What i learn
+
+* App Routes [here](https://github.com/codenoid/flutter-cnhq/blob/0f10ce1d6080d05a8dbc31787ed2ff2bf32ce9e9/lib/main.dart#L9)
+* Image.network, Image.asset
+* Sync HTTP Request [here](https://github.com/codenoid/flutter-cnhq/blob/0f10ce1d6080d05a8dbc31787ed2ff2bf32ce9e9/lib/homeScreen.dart#L22)
+* Widget [here](https://github.com/codenoid/flutter-cnhq/blob/0f10ce1d6080d05a8dbc31787ed2ff2bf32ce9e9/lib/homeScreen.dart#L63)
 
 ## Getting Started
 
