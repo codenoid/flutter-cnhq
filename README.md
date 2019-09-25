@@ -2,6 +2,8 @@
 
 Flutter version of [Chuck Norris Holy Quotes](https://github.com/codenoid/chuck-norris-holy-quotes), Powered by [https://api.chucknorris.io/](https://api.chucknorris.io/)
 
+[TRY IT NOW !](https://github.com/codenoid/flutter-cnhq/releases/tag/1.0) (download .apk release)
+
 ## What i learn
 
 * App Routes [here](https://github.com/codenoid/flutter-cnhq/blob/0f10ce1d6080d05a8dbc31787ed2ff2bf32ce9e9/lib/main.dart#L9)
